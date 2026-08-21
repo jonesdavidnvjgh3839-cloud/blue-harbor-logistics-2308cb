@@ -1,0 +1,14 @@
+{
+  "project": {
+    "repo_name": "blue-harbor-logistics-2308cb",
+    "description": "Project site for Blue Harbor Logistics"
+  },
+  "client": {
+    "full_name": "Blue Harbor Logistics",
+    "industry": "Logistics & Supply Chain",
+    "tagline": "Streamlining global freight, one port at a time.",
+    "primary_color": "#0F5C8C",
+    "contact_email": "hello@blueharborlogistics.com",
+    "website": "https://www.blueharborlogistics.com"
+  }
+}
